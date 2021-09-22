@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hnidmd
+- 👋 Hi, I’m @hagood-dev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, html and css
-- 💞️ I’m looking to collaborate on web application projects
+- 🌱 I’m currently learning html, css, JavaScript, react.js, node.js, python, and Django
+- 💞️ I’m looking to collaboration on web & mobile application projects
 
 <!---
 hnidmd/hnidmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
